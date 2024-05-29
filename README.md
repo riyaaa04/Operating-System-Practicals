@@ -97,8 +97,10 @@ Text Processing
 4. [Write an AWK script to sum the values in the first column of a file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/numbers1.txt)
 <img width="620" alt="Screenshot 2024-05-30 at 12 25 27 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/942f5b99-801a-4762-bda3-db8b017cfbf3">
 
-5. Write an AWK script to print the last column of each line in a file.
-7. Demonstrate any 5 SED commands on ZSH shell.
+5. [Write an AWK script to print the last column of each line in a file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/data4.txt)
+<img width="620" alt="Screenshot 2024-05-30 at 12 30 22 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/ae0c1aa4-79d6-42a2-a812-0813c8b33659">
+
+6. Demonstrate any 5 SED commands on ZSH shell.
 8. Write a SED command to replace all occurrences of "foo" with "bar" in a file.
 9. Write a SED command to delete lines containing the word "error" in a file.
 10. Write a SED command to insert a line of text before the third line of a file.
