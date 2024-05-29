@@ -103,6 +103,7 @@ Text Processing
 6. [Demonstrate any 5 SED commands on ZSH shell.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/zsh.txt)
    
 <img width="620" alt="Screenshot 2024-05-30 at 12 33 03 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/2c02f966-3100-4875-8d8a-f6a7ebfefc05">
+
 <img width="620" alt="Screenshot 2024-05-30 at 12 40 11 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/ec24adf2-b28d-4727-b022-ce8ddc44722e">
 
 8. Write a SED command to replace all occurrences of "foo" with "bar" in a file.
