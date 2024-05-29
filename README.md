@@ -77,7 +77,8 @@ System Calls and IPC
 9. [Write a C program to create a child process that runs a different program using exec().](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/example9.c)
 <img width="605" alt="Screenshot 2024-05-29 at 11 34 30 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/9b9426cc-20a2-4a30-b630-6a17cb19430d">
 
-10.[ Write a C program to handle the SIGINT signal and print a message when it is received.]()
+10.[ Write a C program to handle the SIGINT signal and print a message when it is received.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/example10.c)
+<img width="605" alt="Screenshot 2024-05-29 at 11 36 39 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/4675ebdd-5058-45aa-a400-ecb3c512f9fd">
 
 Text Processing
 1. Demonstrate any 5 AWK commands on ZSH shell.
