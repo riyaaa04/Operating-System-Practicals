@@ -68,7 +68,9 @@ System Calls and IPC
 6. [Write a C program to demonstrate IPC using message queues.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/example6.c)
 <img width="605" alt="Screenshot 2024-05-29 at 11 28 25 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/b9bdb879-4332-4d93-a99c-762cf0fa4071">
 
-7. Write a C program to demonstrate IPC using shared memory.
+7. [Write a C program to demonstrate IPC using shared memory.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/example7.c)
+<img width="605" alt="Screenshot 2024-05-29 at 11 30 38 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/616fd319-4b50-457d-8f4b-6dea216504a8">
+
 8. Write a C program to demonstrate IPC using semaphores.
 9. Write a C program to create a child process that runs a different program
 using exec().
