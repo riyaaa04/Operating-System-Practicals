@@ -84,6 +84,8 @@ Text Processing
 1. [Demonstrate any 5 AWK commands on ZSH shell.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/data1.txt)
 <img width="605" alt="Screenshot 2024-05-29 at 11 53 07 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/19b29b2b-e572-4529-8b26-2b5e8aa374b7">
 <img width="605" alt="Screenshot 2024-05-29 at 11 57 18 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/07f739fc-222a-45cc-9132-78eb7d3f0541">
+<img width="620" alt="Screenshot 2024-05-30 at 12 06 45 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/da656543-c06a-45d9-9ef6-4d131254efb8">
+
 
 
 3. Write an AWK command to print the second column of a file.
