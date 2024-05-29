@@ -81,7 +81,9 @@ System Calls and IPC
 <img width="605" alt="Screenshot 2024-05-29 at 11 36 39 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/4675ebdd-5058-45aa-a400-ecb3c512f9fd">
 
 Text Processing
-1. Demonstrate any 5 AWK commands on ZSH shell.
+1. [Demonstrate any 5 AWK commands on ZSH shell.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/data1.txt)
+ i. <img width="605" alt="Screenshot 2024-05-29 at 11 53 07 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/19b29b2b-e572-4529-8b26-2b5e8aa374b7">
+
 2. Write an AWK command to print the second column of a file.
 3. Write an AWK command to print lines where the third column is greater than
 50.
