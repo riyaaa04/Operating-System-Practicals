@@ -9,4 +9,22 @@ Warning: Disk space low
 Error: Failed to connect to database
 Info: Shutdown initiated
 
+Perform Arithmetic Operations
+1 10
+2 20
+3 30
+4 40
+
+Use Field Separator
+Name,Age,Occupation
+Alice,30,Developer
+Bob,25,Designer
+Charlie,35,Manager
+
+Print Line Numbers
+Alice 30 Developer
+Bob 25 Designer
+Charlie 35 Manager
+
+
 
