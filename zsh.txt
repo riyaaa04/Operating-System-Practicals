@@ -1,3 +1,26 @@
+Substitute Text
 The old car is very old.
 An old tree stands here.
+
+Substitute Text Globally
+The old car is very old.
+An old tree stands here.
+
+Delete Lines Matching a Pattern
+Keep this line.
+Delete this line.
+Also delete this line.
+Keep this too.
+
+Print Only Matching Lines
+This is a line with pattern.
+This line does not match.
+Another pattern here.
+
+Replace Text Only on Specific Line Numbers
+First line old.
+Second line old.
+Third line old.
+
+
 
