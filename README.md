@@ -50,7 +50,7 @@ pwd).
 10. Write a ZSH script to create a backup of a directory.
 
 System Calls and IPC
-1. Write a C program to illustrate the concept of dup system call.
+1. [Write a C program to illustrate the concept of dup system call.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/example.c)
 <img width="605" alt="Screenshot 2024-05-29 at 10 55 41 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/754d562b-7f81-464f-8a90-6bd70418fead">
 
 2. Write a C program to illustrate the concept of fork system call.
