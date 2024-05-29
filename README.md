@@ -74,8 +74,9 @@ System Calls and IPC
 8. [Write a C program to demonstrate IPC using semaphores.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/example8.c)
 <img width="605" alt="Screenshot 2024-05-29 at 11 32 40 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/ccb9deb5-fffd-4f37-8af8-a4b24da478d1">
 
-9. Write a C program to create a child process that runs a different program
-using exec().
+9. [Write a C program to create a child process that runs a different program using exec().](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/example9.c)
+<img width="605" alt="Screenshot 2024-05-29 at 11 34 30 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/9b9426cc-20a2-4a30-b630-6a17cb19430d">
+
 10. Write a C program to handle the SIGINT signal and print a message when it is
 received.
 
