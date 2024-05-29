@@ -105,7 +105,8 @@ Text Processing
 <img width="620" alt="Screenshot 2024-05-30 at 12 33 03 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/2c02f966-3100-4875-8d8a-f6a7ebfefc05">
 <img width="620" alt="Screenshot 2024-05-30 at 12 40 11 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/ec24adf2-b28d-4727-b022-ce8ddc44722e">
 <img width="620" alt="Screenshot 2024-05-30 at 12 47 16 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/f5af0f91-ab08-4fe9-859a-80fd88c80bdd">
-
+<img width="620" alt="Screenshot 2024-05-30 at 12 49 29 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/a3907828-e3ee-4884-b227-d6cc4607b005">
+<img width="620" alt="Screenshot 2024-05-30 at 12 50 47 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/09e0ee20-46c5-4bb1-a667-8487f9d9cbf8">
 
 8. Write a SED command to replace all occurrences of "foo" with "bar" in a file.
 9. Write a SED command to delete lines containing the word "error" in a file.
