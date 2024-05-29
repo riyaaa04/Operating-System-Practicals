@@ -101,7 +101,9 @@ Text Processing
 <img width="620" alt="Screenshot 2024-05-30 at 12 30 22 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/ae0c1aa4-79d6-42a2-a812-0813c8b33659">
 
 6. [Demonstrate any 5 SED commands on ZSH shell.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/zsh.txt)
-<img width="620" alt="Screenshot 2024-05-30 at 12 33 03 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/0e390629-4739-4b77-a1ec-6670907179ec">
+<img width="620" alt="Screenshot 2024-05-30 at 12 33 03 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/a<img width="620" alt="Screenshot 2024-05-30 at 12 40 11 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/7fd62412-d092-4565-bcc2-58074d9ab8f6">
+<img width="620" alt="Screenshot 2024-05-30 at 12 40 11 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/7fd62412-d092-4565-bcc2-58074d9ab8f6">
+
 
 7. Write a SED command to replace all occurrences of "foo" with "bar" in a file.
 8. Write a SED command to delete lines containing the word "error" in a file.
