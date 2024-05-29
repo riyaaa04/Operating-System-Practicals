@@ -1,0 +1,7 @@
+Info: System started
+Warning: Disk space low
+Error: Failed to connect to database
+Info: Shutdown initiated
+error: A minor issue occurred
+Info: System rebooted
+
