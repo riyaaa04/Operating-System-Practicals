@@ -51,6 +51,8 @@ pwd).
 
 System Calls and IPC
 1. Write a C program to illustrate the concept of dup system call.
+Text Processing<img width="1508" alt="Screenshot 2024-05-29 at 10 51 21 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/d1b9d5e7-7c6e-43db-b3e6-ad9fbf008869">
+
 2. Write a C program to illustrate the concept of fork system call.
 3. Write a C program to illustrate the concept of wait system call.
 4. Write a C program to illustrate the concept of signal system call.
