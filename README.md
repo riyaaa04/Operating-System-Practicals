@@ -91,7 +91,9 @@ Text Processing
 2. [Write an AWK command to print the second column of a file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/data2.txt)
 <img width="620" alt="Screenshot 2024-05-30 at 12 18 08 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/2c3b6e80-e8bd-4e6b-9ed6-1299d3a25553">
 
-3. Write an AWK command to print lines where the third column is greater than 50.
+3. [Write an AWK command to print lines where the third column is greater than 50.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/data3.txt)
+<img width="620" alt="Screenshot 2024-05-30 at 12 21 42 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/07c4f6ec-cf7e-48a6-b180-5c543f8951e0">
+
 4. Write an AWK script to sum the values in the first column of a file.
 5. Write an AWK script to print the last column of each line in a file.
 7. Demonstrate any 5 SED commands on ZSH shell.
