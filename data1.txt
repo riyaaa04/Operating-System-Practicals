@@ -1,4 +1,12 @@
+Print Specific Columns
 Alice 30 Developer
 Bob 25 Designer
 Charlie 35 Manager
+
+Filter and Print Lines Matching a Pattern
+Info: System started
+Warning: Disk space low
+Error: Failed to connect to database
+Info: Shutdown initiated
+
 
