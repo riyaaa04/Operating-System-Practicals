@@ -85,8 +85,8 @@ Text Processing
 <img width="605" alt="Screenshot 2024-05-29 at 11 53 07 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/19b29b2b-e572-4529-8b26-2b5e8aa374b7">
 <img width="605" alt="Screenshot 2024-05-29 at 11 57 18 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/07f739fc-222a-45cc-9132-78eb7d3f0541">
 <img width="620" alt="Screenshot 2024-05-30 at 12 06 45 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/da656543-c06a-45d9-9ef6-4d131254efb8">
-
-
+<img width="620" alt="Screenshot 2024-05-30 at 12 10 03 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/48badfd2-71de-49d0-ba69-89895013e777">
+<img width="620" alt="Screenshot 2024-05-30 at 12 11 04 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/e92d343c-028c-4f29-bec0-8f4a87ed4829">
 
 3. Write an AWK command to print the second column of a file.
 4. Write an AWK command to print lines where the third column is greater than
