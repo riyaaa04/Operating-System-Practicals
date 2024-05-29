@@ -59,7 +59,9 @@ System Calls and IPC
 3. [Write a C program to illustrate the concept of wait system call.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/example3.c)
 <img width="605" alt="Screenshot 2024-05-29 at 11 17 46 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/748fd014-921e-4e20-815b-6be00efaef7e">
 
-4. Write a C program to illustrate the concept of signal system call.
+4. [Write a C program to illustrate the concept of signal system call.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/example4.c)
+<img width="605" alt="Screenshot 2024-05-29 at 11 24 02 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/2e6ffd89-46ac-42ae-a4d8-c0c6fd919f81">
+
 5. Write a C program to demonstrate inter-process communication (IPC) using
 pipes.
 6. Write a C program to demonstrate IPC using message queues.
