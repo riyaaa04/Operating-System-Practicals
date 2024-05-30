@@ -55,8 +55,9 @@ File Handling
 
 
 File Permissions and Commands
-1. Write a C program to demonstrate the use of chmod system call to set file
-permissions.
+1. [Write a C program to demonstrate the use of chmod system call to set file permissions.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/fpc.c)
+<img width="559" alt="Screenshot 2024-05-30 at 10 15 41 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/88c475d9-a573-4aa8-ab7b-040122ae1624">
+
 2. Write a C program to demonstrate the use of chown system call to change the
 owner of a file.
 3. Write a C program to demonstrate the use of stat system call to get file status.
