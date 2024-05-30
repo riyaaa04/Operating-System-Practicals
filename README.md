@@ -77,7 +77,9 @@ File Permissions and Commands
 6. [Write a ZSH script to list all files in the current directory with their sizes.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/list_files.sh)
 <img width="559" alt="Screenshot 2024-05-30 at 10 40 09 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/d972a136-0ad8-4a85-9e71-5d430c458840">
 
-7. Write a ZSH script to find and delete all files with a .tmp extension.
+7.[ Write a ZSH script to find and delete all files with a .tmp extension.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/delete_tmp.sh)
+<img width="462" alt="Screenshot 2024-05-30 at 11 02 54 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/27f62ef6-c9c4-470f-844d-69bd2a08b8ed">
+
 8. Write a ZSH script to display the last 20 lines of all .log files in a directory.
 9. Write a ZSH script to rename all .txt files to .bak in a directory.
 10. Write a ZSH script to create a backup of a directory.
