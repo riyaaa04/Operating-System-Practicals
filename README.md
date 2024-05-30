@@ -65,6 +65,8 @@ File Permissions and Commands
 <img width="559" alt="Screenshot 2024-05-30 at 10 22 20 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/1d7e30b8-a6a1-45bb-b0c6-c8448dc31b98">
 
 4. Demonstrate any 5 file commands on ZSH shell (e.g., cat, head, tail, cp, rm).
+<img width="559" alt="Screenshot 2024-05-30 at 10 27 28 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/032aee68-f4a3-4f64-84db-d8f1b02b97bb">
+
 5. Demonstrate any 5 directory commands on ZSH shell (e.g., ls, mkdir, cd, rmdir,
 pwd).
 6. Write a ZSH script to list all files in the current directory with their sizes.
