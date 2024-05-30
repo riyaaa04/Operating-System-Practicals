@@ -112,6 +112,7 @@ Text Processing
 <img width="620" alt="Screenshot 2024-05-30 at 12 54 04 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/b6c05e3e-5c9e-4e40-99ae-99a051d4f8be">
 
 8. [Write a SED command to delete lines containing the word "error" in a file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/delete.txt)
+<img width="620" alt="Screenshot 2024-05-30 at 12 56 50 AM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/ef59f018-2b0d-4210-815f-3f909f7c6a76">
 
 10. Write a SED command to insert a line of text before the third line of a file.
 11. Write a SED command to append a line of text after the fifth line of a file.
