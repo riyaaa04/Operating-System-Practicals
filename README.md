@@ -47,7 +47,9 @@ File Handling
 8. [Write a C program to copy the contents of one file to another.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/copy_file.c)
 <img width="559" alt="Screenshot 2024-05-30 at 9 54 53 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/63af09a7-c4bb-485f-afde-5f30572d96c3">
 
-9. Write a C program to count the number of lines in a text file.
+9. [Write a C program to count the number of lines in a text file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/count_lines.c)
+<img width="559" alt="Screenshot 2024-05-30 at 10 04 59 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/a17a0041-df0f-4837-8cd4-0fc7eab98ff9">
+
 10. Write a C program to check if a file exists before attempting to open it.
 
 File Permissions and Commands
