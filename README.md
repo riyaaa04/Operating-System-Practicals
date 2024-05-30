@@ -67,8 +67,13 @@ File Permissions and Commands
 4. Demonstrate any 5 file commands on ZSH shell (e.g., cat, head, tail, cp, rm).
 <img width="559" alt="Screenshot 2024-05-30 at 10 27 28 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/032aee68-f4a3-4f64-84db-d8f1b02b97bb">
 
-5. Demonstrate any 5 directory commands on ZSH shell (e.g., ls, mkdir, cd, rmdir,
-pwd).
+5. Demonstrate any 5 directory commands on ZSH shell (e.g., ls, mkdir, cd, rmdir, pwd).
+<img width="559" alt="Screenshot 2024-05-30 at 10 30 14 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/1d14af0e-d310-4c48-b37a-0d088a6bc6be">
+<img width="559" alt="Screenshot 2024-05-30 at 10 30 33 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/a8c13212-f292-466c-8f21-cb88cfd1c6d1">
+<img width="559" alt="Screenshot 2024-05-30 at 10 31 57 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/06094937-9df4-4a8d-9383-f42757699960">
+<img width="559" alt="Screenshot 2024-05-30 at 10 34 39 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/59bf5fee-a2c9-4c6a-bf55-362c80a3756f">
+<img width="559" alt="Screenshot 2024-05-30 at 10 34 54 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/63ac2c03-b3d7-4281-888a-265b0aca0b49">
+
 6. Write a ZSH script to list all files in the current directory with their sizes.
 7. Write a ZSH script to find and delete all files with a .tmp extension.
 8. Write a ZSH script to display the last 20 lines of all .log files in a directory.
