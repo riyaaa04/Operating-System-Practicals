@@ -80,7 +80,9 @@ File Permissions and Commands
 7.[ Write a ZSH script to find and delete all files with a .tmp extension.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/delete_tmp.sh) <br>
 <img width="462" alt="Screenshot 2024-05-30 at 11 02 54 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/27f62ef6-c9c4-470f-844d-69bd2a08b8ed">
 
-8. Write a ZSH script to display the last 20 lines of all .log files in a directory.
+8. [Write a ZSH script to display the last 20 lines of all .log files in a directory.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/logfile.sh)
+<img width="462" alt="Screenshot 2024-05-30 at 11 10 15 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/e73423bf-220c-440e-a39f-00716cd60e91">
+
 9. Write a ZSH script to rename all .txt files to .bak in a directory.
 10. Write a ZSH script to create a backup of a directory.
 
