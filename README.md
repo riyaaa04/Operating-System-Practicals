@@ -29,7 +29,9 @@ File Handling
 2. [Write a C program to create, open, and close a text file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/fh2.c)
 <img width="393" alt="Screenshot 2024-05-30 at 8 21 39 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/13d83d8f-e3d9-44a7-a00f-987935ffafbe">
 
-3. Write a C program to open a text file and read the last 10 bytes.
+3. [Write a C program to open a text file and read the last 10 bytes.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/fh3.c)
+<img width="393" alt="Screenshot 2024-05-30 at 8 43 59 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/8a3db5dc-0964-497a-8de2-d5d0f6c72820">
+
 4. Write a C program to demonstrate the use of any 5 modes to open a text file.
 5. Write a C program to write "Hello, World!" to a new text file.
 6. Write a C program to append "End of File" to an existing text file.
