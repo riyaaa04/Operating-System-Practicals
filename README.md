@@ -83,7 +83,9 @@ File Permissions and Commands
 8. [Write a ZSH script to display the last 20 lines of all .log files in a directory.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/logfile.sh)
 <img width="462" alt="Screenshot 2024-05-30 at 11 10 15 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/e73423bf-220c-440e-a39f-00716cd60e91">
 
-9. Write a ZSH script to rename all .txt files to .bak in a directory.
+9. [Write a ZSH script to rename all .txt files to .bak in a directory.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/bak.sh)
+<img width="462" alt="Screenshot 2024-05-30 at 11 14 01 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/f9e2e76d-4d08-411d-a518-d62ab034e5a8">
+
 10. Write a ZSH script to create a backup of a directory.
 
 System Calls and IPC
