@@ -117,4 +117,4 @@ Text Processing
 9.[ Write a SED command to insert a line of text before the third line of a file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/text.txt)
 <img width="620" alt="Screenshot 2024-05-30 at 3 22 15 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/14adfc63-175e-49bf-a825-f4adc589383a">
 
-10. Write a SED command to append a line of text after the fifth line of a file.
+10. [Write a SED command to append a line of text after the fifth line of a file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/append.txt)
