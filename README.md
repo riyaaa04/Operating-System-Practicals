@@ -86,7 +86,9 @@ File Permissions and Commands
 9. [Write a ZSH script to rename all .txt files to .bak in a directory.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/bak.sh)
 <img width="462" alt="Screenshot 2024-05-30 at 11 14 01 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/f9e2e76d-4d08-411d-a518-d62ab034e5a8">
 
-10. Write a ZSH script to create a backup of a directory.
+10. [Write a ZSH script to create a backup of a directory.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/backup.sh)
+<img width="462" alt="Screenshot 2024-05-30 at 11 18 13 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/1e3f4e83-5e85-43b4-ae79-7b822c33b9a1">
+
 
 System Calls and IPC
 1. [Write a C program to illustrate the concept of dup system call.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/example.c)
