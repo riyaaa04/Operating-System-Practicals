@@ -35,7 +35,9 @@ File Handling
 4. [Write a C program to demonstrate the use of any 5 modes to open a text file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/fh4.c)
 <img width="393" alt="Screenshot 2024-05-30 at 8 58 35 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/412e5cdc-05b5-4c67-9a7d-bbb9c90dbe76">
 
-5. Write a C program to write "Hello, World!" to a new text file.
+5. [Write a C program to write "Hello, World!" to a new text file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/write_hello_world.c)
+<img width="559" alt="Screenshot 2024-05-30 at 9 07 18 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/54bffc1f-b5de-4282-91dd-174b5b6e6da4">
+
 6. Write a C program to append "End of File" to an existing text file.
 7. Write a C program to read a file line by line and print each line.
 8. Write a C program to copy the contents of one file to another.
