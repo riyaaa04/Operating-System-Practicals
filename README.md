@@ -61,7 +61,9 @@ File Permissions and Commands
 2. [Write a C program to demonstrate the use of chown system call to change the owner of a file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/fpc2.c)
 <img width="559" alt="Screenshot 2024-05-30 at 10 18 27 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/43781e5a-55a1-4cf7-bb23-684c8ae20a5a">
 
-3. Write a C program to demonstrate the use of stat system call to get file status.
+3. [Write a C program to demonstrate the use of stat system call to get file status.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/fpc3.c)
+<img width="559" alt="Screenshot 2024-05-30 at 10 22 20 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/1d7e30b8-a6a1-45bb-b0c6-c8448dc31b98">
+
 4. Demonstrate any 5 file commands on ZSH shell (e.g., cat, head, tail, cp, rm).
 5. Demonstrate any 5 directory commands on ZSH shell (e.g., ls, mkdir, cd, rmdir,
 pwd).
