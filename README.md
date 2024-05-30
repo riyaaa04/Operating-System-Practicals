@@ -50,7 +50,9 @@ File Handling
 9. [Write a C program to count the number of lines in a text file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/count_lines.c)
 <img width="559" alt="Screenshot 2024-05-30 at 10 04 59 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/a17a0041-df0f-4837-8cd4-0fc7eab98ff9">
 
-10. Write a C program to check if a file exists before attempting to open it.
+10. [Write a C program to check if a file exists before attempting to open it.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/exist.c)
+<img width="559" alt="Screenshot 2024-05-30 at 10 08 06 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/2ecc06c3-4852-48f2-9251-844252211334">
+
 
 File Permissions and Commands
 1. Write a C program to demonstrate the use of chmod system call to set file
