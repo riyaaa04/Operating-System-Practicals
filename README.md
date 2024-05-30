@@ -38,7 +38,9 @@ File Handling
 5. [Write a C program to write "Hello, World!" to a new text file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/write_hello_world.c)
 <img width="559" alt="Screenshot 2024-05-30 at 9 07 18 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/54bffc1f-b5de-4282-91dd-174b5b6e6da4">
 
-6. Write a C program to append "End of File" to an existing text file.
+6. [Write a C program to append "End of File" to an existing text file.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/append_eof.c)
+<img width="559" alt="Screenshot 2024-05-30 at 9 19 49 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/d91af637-d5e3-45c5-98c4-11f3b020ffaa">
+
 7. Write a C program to read a file line by line and print each line.
 8. Write a C program to copy the contents of one file to another.
 9. Write a C program to count the number of lines in a text file.
