@@ -25,8 +25,15 @@ received from the client and sends it back.<br>
 [client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient3.c) <br>
 <img width="309" alt="Screenshot 2024-06-02 at 2 36 52 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/6e10ca8d-451f-470f-81fc-36d84f454db9">
 
-5. Enhance the TCP reverse string server to handle multiple clients using
-threads.
+4. Enhance the TCP reverse string server to handle multiple clients using
+threads.<br>
+[server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/userver4.c)
+<img width="435" alt="Screenshot 2024-06-02 at 2 43 56 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/154866e6-67df-438a-ac7d-26aed0494664">
+
+[client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient4.c) <br>
+<img width="435" alt="Screenshot 2024-06-02 at 2 43 13 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/3d70d59d-c544-4cff-9449-ca7a47b05eff">
+<img width="435" alt="Screenshot 2024-06-02 at 2 43 47 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/907c1560-da36-4524-ac2e-a3655b2ab21f">
+
 6. Write a TCP client-server program where the server checks whether a number
 received from the client is even or odd.
 7. Modify the TCP even/odd server to handle client connections in a loop until
