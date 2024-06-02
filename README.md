@@ -3,23 +3,28 @@
 Networking
 1. Write a client-server program using UDP connection. Exchange a message
 between client and server and close both sockets.
-2. Modify the UDP client-server program to handle multiple messages in a loop
+[server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/userver.c)
+<img width="309" alt="Screenshot 2024-06-02 at 2 19 17 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/1865139a-873f-415e-8ccb-dd5e2a8f76dc">
+[client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient.c)
+<img width="309" alt="Screenshot 2024-06-02 at 2 19 17 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/7f441705-538a-42ed-95eb-44b0074e04ff">
+
+3. Modify the UDP client-server program to handle multiple messages in a loop
 until the client sends "exit".
-3. Write a TCP client-server program where the server reverses the string
+4. Write a TCP client-server program where the server reverses the string
 received from the client and sends it back.
-4. Enhance the TCP reverse string server to handle multiple clients using
+5. Enhance the TCP reverse string server to handle multiple clients using
 threads.
-5. Write a TCP client-server program where the server checks whether a number
+6. Write a TCP client-server program where the server checks whether a number
 received from the client is even or odd.
-6. Modify the TCP even/odd server to handle client connections in a loop until
+7. Modify the TCP even/odd server to handle client connections in a loop until
 the client sends "exit".
-7. Write a TCP client-server program where the client sends a file name and the
+8. Write a TCP client-server program where the client sends a file name and the
 server sends the contents of the file.
-8. Modify the TCP file transfer server to send a list of available files to the client
+9. Modify the TCP file transfer server to send a list of available files to the client
 before sending the requested file.
-9. Write a UDP client-server program where the server echoes back any message
+10. Write a UDP client-server program where the server echoes back any message
 received from the client.
-10. Create a UDP server that handles multiple clients using select() for I/O
+11. Create a UDP server that handles multiple clients using select() for I/O
 multiplexing.
 
 File Handling
