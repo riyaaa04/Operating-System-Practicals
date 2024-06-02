@@ -2,8 +2,7 @@
 
 Networking
 1. Write a client-server program using UDP connection. Exchange a message
-between client and server and close both sockets.
-
+between client and server and close both sockets.<br>
 [server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/userver.c)
 <img width="309" alt="Screenshot 2024-06-02 at 2 19 17 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/1865139a-873f-415e-8ccb-dd5e2a8f76dc"> 
 
@@ -13,7 +12,7 @@ between client and server and close both sockets.
 2. Modify the UDP client-server program to handle multiple messages in a loop
 until the client sends "exit". <br>
 [server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/userver2.c)
-<img width="309" alt="Screenshot 2024-06-02 at 2 28 11 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/7c1259b9-20fb-4031-b362-c49d6e1de721">
+<img width="309" alt="Screenshot 2024-06-02 at 2 28 11 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/7c1259b9-20fb-4031-b362-c49d6e1de721"> <br>
 [client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient2.c)
 <img width="309" alt="Screenshot 2024-06-02 at 2 28 20 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/b5953f11-0284-4c8a-86d8-0e2888d7cad1">
 
