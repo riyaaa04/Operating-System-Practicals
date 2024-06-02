@@ -32,6 +32,7 @@ threads.<br>
 
 [client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient4.c) <br>
 <img width="435" alt="Screenshot 2024-06-02 at 2 43 13 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/3d70d59d-c544-4cff-9449-ca7a47b05eff">
+
 <img width="435" alt="Screenshot 2024-06-02 at 2 43 47 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/907c1560-da36-4524-ac2e-a3655b2ab21f">
 
 6. Write a TCP client-server program where the server checks whether a number
