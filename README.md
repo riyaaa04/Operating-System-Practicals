@@ -12,7 +12,8 @@ between client and server and close both sockets.<br>
 2. Modify the UDP client-server program to handle multiple messages in a loop
 until the client sends "exit". <br>
 [server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/userver2.c)
-<img width="309" alt="Screenshot 2024-06-02 at 2 28 11 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/7c1259b9-20fb-4031-b362-c49d6e1de721"> <br>
+<img width="309" alt="Screenshot 2024-06-02 at 2 28 11 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/7c1259b9-20fb-4031-b362-c49d6e1de721">
+
 [client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient2.c)
 <img width="309" alt="Screenshot 2024-06-02 at 2 28 20 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/b5953f11-0284-4c8a-86d8-0e2888d7cad1">
 
