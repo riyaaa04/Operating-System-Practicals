@@ -75,8 +75,13 @@ received from the client.<br>
 [client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient9.c) <br>
 <img width="451" alt="Screenshot 2024-06-02 at 3 30 29 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/005036f1-b1ea-4ed6-82a8-32e0504110d1">
 
-11. Create a UDP server that handles multiple clients using select() for I/O
-multiplexing.
+10. Create a UDP server that handles multiple clients using select() for I/O
+multiplexing.<br>
+[server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/server10.c)
+<img width="451" alt="Screenshot 2024-06-02 at 3 37 38 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/295f4cfe-9aa8-41e2-a4d6-be66db3d6974">
+
+[client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/client10.c) <br>
+<img width="451" alt="Screenshot 2024-06-02 at 3 37 47 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/40534196-8377-401f-910d-a707eea06a3e">
 
 File Handling
 1. [Write a C program to open a text file and read the first 10 bytes.](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/fh1.c)
