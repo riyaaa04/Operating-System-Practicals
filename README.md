@@ -35,8 +35,14 @@ threads.<br>
 
 <img width="435" alt="Screenshot 2024-06-02 at 2 43 47 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/907c1560-da36-4524-ac2e-a3655b2ab21f">
 
-6. Write a TCP client-server program where the server checks whether a number
-received from the client is even or odd.
+5. Write a TCP client-server program where the server checks whether a number
+received from the client is even or odd.<br>
+[server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/userver5.c)
+<img width="435" alt="Screenshot 2024-06-02 at 2 48 24 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/126f2933-7885-4f30-99f0-7775f183f403">
+
+[client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient5.c) <br>
+<img width="435" alt="Screenshot 2024-06-02 at 2 48 31 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/f7f5af10-a385-4baf-b768-995f45fb0f00">
+
 7. Modify the TCP even/odd server to handle client connections in a loop until
 the client sends "exit".
 8. Write a TCP client-server program where the client sends a file name and the
