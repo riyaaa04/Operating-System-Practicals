@@ -51,8 +51,14 @@ the client sends "exit".<br>
 [client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/client6.c) <br>
 <img width="607" alt="Screenshot 2024-06-02 at 3 06 06 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/5891ce82-4265-443f-a163-2e9d177900da">
 
-8. Write a TCP client-server program where the client sends a file name and the
-server sends the contents of the file.
+7. Write a TCP client-server program where the client sends a file name and the
+server sends the contents of the file.<br>
+[server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/userver7.c)
+<img width="337" alt="Screenshot 2024-06-02 at 3 13 34 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/999bda3c-9524-426a-b9ad-d3101d747ca6">
+
+[client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient7.c) <br>
+<img width="451" alt="Screenshot 2024-06-02 at 3 13 42 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/e3d7491e-551c-40b8-b4f3-e7f1e4b9c80c">
+
 9. Modify the TCP file transfer server to send a list of available files to the client
 before sending the requested file.
 10. Write a UDP client-server program where the server echoes back any message
