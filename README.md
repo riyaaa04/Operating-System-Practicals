@@ -59,8 +59,14 @@ server sends the contents of the file.<br>
 [client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient7.c) <br>
 <img width="451" alt="Screenshot 2024-06-02 at 3 13 42 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/e3d7491e-551c-40b8-b4f3-e7f1e4b9c80c">
 
-9. Modify the TCP file transfer server to send a list of available files to the client
-before sending the requested file.
+8. Modify the TCP file transfer server to send a list of available files to the client
+before sending the requested file.<br>
+[server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/userver8.c)
+<img width="451" alt="Screenshot 2024-06-02 at 3 20 54 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/ac81b75f-4901-43cd-9bc0-a01b7108634d">
+
+[client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient8.c) <br>
+<img width="451" alt="Screenshot 2024-06-02 at 3 21 02 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/b4e1189c-519f-4830-a5b9-a54115ce05e8">
+
 10. Write a UDP client-server program where the server echoes back any message
 received from the client.
 11. Create a UDP server that handles multiple clients using select() for I/O
