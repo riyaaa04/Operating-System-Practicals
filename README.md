@@ -17,10 +17,14 @@ until the client sends "exit". <br>
 [client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient2.c) <br>
 <img width="309" alt="Screenshot 2024-06-02 at 2 28 20 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/b5953f11-0284-4c8a-86d8-0e2888d7cad1">
 
+3. Write a TCP client-server program where the server reverses the string
+received from the client and sends it back.<br>
+[server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/userver3.c)
+<img width="309" alt="Screenshot 2024-06-02 at 2 36 47 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/cc6ef757-4e73-4c19-b219-27631972523b">
 
+[client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient3.c) <br>
+<img width="309" alt="Screenshot 2024-06-02 at 2 36 52 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/6e10ca8d-451f-470f-81fc-36d84f454db9">
 
-4. Write a TCP client-server program where the server reverses the string
-received from the client and sends it back.
 5. Enhance the TCP reverse string server to handle multiple clients using
 threads.
 6. Write a TCP client-server program where the server checks whether a number
