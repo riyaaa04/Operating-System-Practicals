@@ -43,8 +43,14 @@ received from the client is even or odd.<br>
 [client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient5.c) <br>
 <img width="435" alt="Screenshot 2024-06-02 at 2 48 31 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/f7f5af10-a385-4baf-b768-995f45fb0f00">
 
-7. Modify the TCP even/odd server to handle client connections in a loop until
-the client sends "exit".
+6. Modify the TCP even/odd server to handle client connections in a loop until
+the client sends "exit".<br>
+[server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/server6.c)
+<img width="435" alt="Screenshot 2024-06-02 at 3 05 55 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/de125d9d-2596-4467-8dac-7c1cd49489c2">
+
+[client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/client6.c) <br>
+<img width="607" alt="Screenshot 2024-06-02 at 3 06 06 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/5891ce82-4265-443f-a163-2e9d177900da">
+
 8. Write a TCP client-server program where the client sends a file name and the
 server sends the contents of the file.
 9. Modify the TCP file transfer server to send a list of available files to the client
