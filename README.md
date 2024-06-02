@@ -3,8 +3,9 @@
 Networking
 1. Write a client-server program using UDP connection. Exchange a message
 between client and server and close both sockets.
+
 [server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/userver.c)
-<img width="309" alt="Screenshot 2024-06-02 at 2 19 17 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/1865139a-873f-415e-8ccb-dd5e2a8f76dc"> <br>
+<img width="309" alt="Screenshot 2024-06-02 at 2 19 17 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/1865139a-873f-415e-8ccb-dd5e2a8f76dc"> 
 
 [client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient.c)
 <img width="309" alt="Screenshot 2024-06-02 at 2 19 23 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/6705dadd-662e-4dd5-8768-bb1620a2d724">
