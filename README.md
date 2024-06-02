@@ -67,8 +67,14 @@ before sending the requested file.<br>
 [client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient8.c) <br>
 <img width="451" alt="Screenshot 2024-06-02 at 3 21 02 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/b4e1189c-519f-4830-a5b9-a54115ce05e8">
 
-10. Write a UDP client-server program where the server echoes back any message
-received from the client.
+9. Write a UDP client-server program where the server echoes back any message
+received from the client.<br>
+[server](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/userver9.c)
+<img width="451" alt="Screenshot 2024-06-02 at 3 30 19 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/ecb4ba0b-0f32-46ac-9fd6-8373f99c6323">
+
+[client](https://github.com/riyaaa04/Operating-System-Practicals/blob/main/uclient9.c) <br>
+<img width="451" alt="Screenshot 2024-06-02 at 3 30 29 PM" src="https://github.com/riyaaa04/Operating-System-Practicals/assets/142775560/005036f1-b1ea-4ed6-82a8-32e0504110d1">
+
 11. Create a UDP server that handles multiple clients using select() for I/O
 multiplexing.
 
